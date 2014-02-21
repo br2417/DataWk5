@@ -1,0 +1,35 @@
+{
+	"ZooAnimals": [
+		{
+			"animal": "Giraffe",
+			"type": "mammal",
+			"BloodTemp": "warm",
+			"IsFriendly": true
+		}, {
+			"animal": "tiger",
+			"type": "mammal",
+			"BloodTemp": "warm",
+			"IsFriendly": false
+		}, {
+			"animal": "snake",
+			"type": "reptile",
+			"BloodTemp": "cold",
+			"IsFriendly": false
+		}, {
+			"animal": "gecko",
+			"type": "reptile",
+			"BloodTemp": "cold",
+			"IsFriendly": true
+		}, {
+			"animal": "crocodile",
+			"type": "reptile",
+			"BloodTemp": "cold",
+			"IsFriendly": false
+		}, {
+			"animal": "chimpanzee",
+			"type": "mammal",
+			"BloodTemp": "warm",
+			"IsFriendly": true
+		}
+	]
+}
