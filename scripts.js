@@ -45,4 +45,4 @@ function AnimalDataLoaded() {
 
 $(document).ready(AnimalDataLoaded);
 
-console.log("this statement comes after after document ready")
+console.log("this statement comes after document ready")
